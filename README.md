@@ -1,4 +1,5 @@
 UITM CYBERHEROES CLUB
+
 Holllaaaa..
 
 hello im back ./hackboredzz!!! can you help me find the anonymous that steal my private key :) help me to find it by using all the techniques that you learn today. The bounty is waiting for the winners so reach meeeee :)
@@ -65,7 +66,7 @@ soo first i see that the owner ig upload some story that contains weird sound so
 soo I ANALYZEE every post and find out some fishy gdrive link :)
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP-2.0/assets/129681351/c3801d16-5e64-4399-b0a1-1101c7b9dbbb)
 
-soo we got to the link and we retrieved .wav and the first tie i hear it i know THIS IS MORSE CODEE TIMEE!!!
+soo we got to the link and we retrieved .wav and the first time i hear it i know THIS IS MORSE CODEE TIMEE!!!
 soo i download the file and use this tool https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP-2.0/assets/129681351/780cca95-fb8f-48dc-a392-c60ae5dc2137)
