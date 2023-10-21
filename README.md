@@ -6,7 +6,7 @@ hello im back ./hackboredzz!!! can you help me find the anonymous that steal my 
 
 hint:31 35 37 2e 32 34 35 2e 31 35 34 2e 35 37
 
-sooo this challange look soo intresting lets we explore how to exploit this hehehe...
+sooo this clook soo intresting lets explore how to exploit this hehehe...
 
 from the hint we given so number but its look like hex right? lets try cook with my favourite decode tools https://gchq.github.io/CyberChef/ sooo..
 ![image](https://github.com/miroollya/MINI-CTF-WRITE-UP-2.0/assets/129681351/5563bd58-02f6-4101-ac84-51dbe7e3a047)
